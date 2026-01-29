@@ -85,6 +85,6 @@ The project is structured into the following stages:
 
 ---
 
-## Project Status
+Monthly KPI analysis was created to track revenue, orders, active customers, and AOV over time. 
+MoM growth and weekday seasonality views were used to identify trends and detect seasonal patterns.
 
-🚧 Work in progress – this project is being developed step by step as part of a structured analytics portfolio.
